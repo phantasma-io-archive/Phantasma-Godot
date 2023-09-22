@@ -1,5 +1,9 @@
 Phantasma Godot Integration
 
+<p align="center">
+  <img src="/logo.png">
+</p>
+
 This repository provides an integration of the Phantasma Blockchain into the Godot Engine, allowing Godot developers to harness the power of blockchain for their games and applications.
 
 # Features
