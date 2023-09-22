@@ -55,6 +55,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 # Support & Contact
 
-If you run into issues or have questions, feel free to open an issue or contact YourEmail@example.com.
+If you run into issues or have questions, feel free to open an issue or join the <a href="https://t.me/phantasma_io">Phantasma Telegram</a>.
 
 Happy developing, and enjoy the power of Phantasma in the Godot Engine!
