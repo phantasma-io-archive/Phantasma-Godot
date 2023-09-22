@@ -8,36 +8,35 @@ This repository provides an integration of the Phantasma Blockchain into the God
 
 # Features
 
-    Sample Godot project containing a simple wallet connection using the Phantasma Link library.
-    Easy to understand and integrate into existing Godot projects.
+Sample Godot project containing a simple wallet connection using the Phantasma Link library, easy to understand and integrate into existing Godot projects.
 
 # Getting Started
 
 ## Prerequisites
 
-    Godot Engine v4.0 or newer
-    Basic knowledge of C# in Godot
-    A Phantasma wallet (for testing)
+Godot Engine v4.0 or newer
+Basic knowledge of C# in Godot
+A Phantasma wallet (for testing, eg: Poltergeist or Ecto)
 
 ## Installation
 
-    Clone the repository:
+Clone the repository:
 
 ```sh
     git clone https://github.com/YourGitHubUsername/phantasma-godot-integration.git
 ```
 
-    Open the included Godot project in the Godot Engine.
+Open the included Godot project in the Godot Engine.
 
-    Follow the sample code and documentation provided in the sample project to understand the integration process.
+Follow the sample code and documentation provided in the sample project to understand the integration process.
 
 # Usage
 
 The sample Godot project provides a straightforward example of how to:
 
-    Connect to a Phantasma wallet.
-    Display wallet details.
-    Interact with the Phantasma blockchain via the Phantasma Link library.
+- Connect to a Phantasma wallet.
+- Display wallet details.
+- Interact with the Phantasma blockchain via the Phantasma Link library.
 
 For more detailed instructions and explanations, please refer to the in-code documentation and comments provided within the sample project.
 Contributing
@@ -50,8 +49,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 # Acknowledgments
 
-    Phantasma Team for their comprehensive Link library.
-    Godot community for the continuous support and contributions.
+Phantasma Team for their comprehensive Link library.
+Godot community for the continuous support and contributions.
 
 # Support & Contact
 
