@@ -1,4 +1,4 @@
-Phantasma Godot Integration
+<h1>Phantasma Godot Integration</h1>
 
 <p align="center">
   <img src="/logo.png">
