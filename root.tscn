@@ -1,0 +1,24 @@
+[gd_scene load_steps=3 format=3 uid="uid://cuho5ac3xfn85"]
+
+[ext_resource type="Texture2D" uid="uid://ko84aomg0oyu" path="res://Scripts/Phantasma/specky.png" id="1_gbdax"]
+[ext_resource type="Script" path="res://Scripts/DemoWallet.cs" id="2_7u038"]
+
+[node name="Root" type="Node2D"]
+
+[node name="Logo" type="Sprite2D" parent="."]
+position = Vector2(21, 16)
+scale = Vector2(0.28125, 0.273438)
+texture = ExtResource("1_gbdax")
+centered = false
+
+[node name="Button" type="Button" parent="."]
+offset_left = 21.0
+offset_top = 228.0
+offset_right = 293.0
+offset_bottom = 308.0
+text = "Login"
+
+[node name="Wallet" type="Node" parent="."]
+script = ExtResource("2_7u038")
+
+[connection signal="pressed" from="Button" to="Wallet" method="_on_button_pressed"]
